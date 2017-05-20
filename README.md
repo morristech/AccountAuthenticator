@@ -1,15 +1,11 @@
-Authenticator Sample App
-========================
+Firebase Account Authenticator
+==============================
 
-A sample app to demonstrate some of Android Authenticator's abilities.
+A sample [custom account authenticator](https://developer.android.com/training/id-auth/custom_auth.html) app powered by [Google Firebase](https://firebase.google.com/docs/auth/).
 
 ![screenshots](screenshots/sampleapp.png) &nbsp;&nbsp; ![screenshots](screenshots/accounts.png)
 
-
-This subject and source code is explained in my blog post at http://udinic.wordpress.com/2013/04/24/write-your-own-android-authenticator/
-
-
-Developed By
+Developed by
 ============
 
 * Udi Cohen (udinic@gmail.com)
@@ -20,7 +16,7 @@ Developed By
 License
 =======
 
-Copyright (c) 2017 Udi Cohen
+Copyright (c) 2017 Udi Cohen, Joao Paulo Fernandes Ventura
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
