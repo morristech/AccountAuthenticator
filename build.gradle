@@ -23,6 +23,7 @@ ext {
     targetSdkVersion = 25
 
     // Application dependencies
+    constraintLayoutVersion = '1.0.2'
     guavaVersion = '20.0'
     googleGsonLibraryVersion = '2.7'
     googlePlayLibraryVersion = "10.2.4"
