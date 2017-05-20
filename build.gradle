@@ -5,6 +5,7 @@ buildscript {
     }
     dependencies {
         classpath 'com.android.tools.build:gradle:2.3.2'
+        classpath 'com.google.gms:google-services:3.0.0'
     }
 }
 
@@ -24,5 +25,6 @@ ext {
     // Application dependencies
     guavaVersion = '20.0'
     googleGsonLibraryVersion = '2.7'
+    googlePlayLibraryVersion = "10.2.4"
     supportLibraryVersion = '25.3.0'
 }

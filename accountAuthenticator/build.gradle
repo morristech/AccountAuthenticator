@@ -22,3 +22,5 @@ dependencies {
     compile "com.google.code.gson:gson:$rootProject.googleGsonLibraryVersion"
     compile "com.google.guava:guava:$rootProject.guavaVersion"
 }
+
+apply plugin: 'com.google.gms.google-services'
