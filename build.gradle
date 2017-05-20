@@ -26,5 +26,6 @@ ext {
     guavaVersion = '20.0'
     googleGsonLibraryVersion = '2.7'
     googlePlayLibraryVersion = "10.2.4"
+    firebaseLibraryVersion = rootProject.googlePlayLibraryVersion
     supportLibraryVersion = '25.3.0'
 }
